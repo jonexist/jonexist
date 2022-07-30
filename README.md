@@ -1,15 +1,13 @@
 <a href="#"><img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1380" width="100%" height="auto"></a>
 
 <h1 align="center">Hi, I'm Jonathan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Self-taught Frontend Developer</h3>
-
 ## About me 🙋‍♂️
 
 - 👨‍🎓 I'm **Jonathan Goboli** 21 years old and currently studying **BSIS** at **Sorsogon State University**
 
-- 🌱 I’m currently learning the fundamentals of web development (**Html, CSS and JavaScript**)
+- 🌱 I’m currently learning the basic fundamentals of web development (**Html, CSS and JavaScript**)
 
-- 🛠 I'm a Computer Technician(lvl 1)
+- 🛠 Repairing, installing application & triubleshooting pc is one of my services
 
 - 👯 I’m looking to collaborate on **Web Dev practice & UI/UX designing in Figma**
 
