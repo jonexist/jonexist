@@ -23,10 +23,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="60px" height="60px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="60px" height="60px"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="60px" height="60px"></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1659155772~hmac=c5fa1adb373baeeda6d6c466a382712f" width="60px" height="60px"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6577/6577277.png" width="60px" height="60px"></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="60px" height="60px"></a>
   <a href="https://www.techtarget.com/whatis/definition/Photoshop" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="60px" height="60px"></a>
-  <a href="https://www.mediacollege.com/video/editing/tutorial/definition.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/5242/premium/5242368.png?token=exp=1659155875~hmac=b9e299efaebe3a08fec009fe363b9994" width="60px" height="60px"></a>
+  <a href="https://www.mediacollege.com/video/editing/tutorial/definition.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/4047/premium/4047865.png?token=exp=1659615948~hmac=34ff0c76db61991cb08424ed2e3f14bb" width="60px" height="60px"></a>
 </p>
 
 ## My Github Stats 📊
