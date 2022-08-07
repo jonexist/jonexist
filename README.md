@@ -4,7 +4,7 @@
 
 ## About me 🙋‍♂️
 
-- 👨‍🎓 I'm **Jonathan Goboli** 21 years old and currently studying **BSIS** at **Sorsogon State University**
+- 👨‍🎓 I'm **Jonathan Goboli** 20 years old and currently studying **BSIS** at **Sorsogon State University**
 
 - 🌱 I’m currently learning the basic fundamentals of web development (**Html, CSS and JavaScript**)
 
