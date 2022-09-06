@@ -1,4 +1,4 @@
-<a href="#"><img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1380" width="100%" height="auto"></a>
+<a href="#"><img src="https://free4kwallpapers.com/uploads/originals/2020/08/15/-programming-wallpaper.png" width="100%" height="auto"></a>
 
 <h1 align="center">Hi, I'm Jonathan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
