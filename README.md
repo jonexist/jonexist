@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web Dev practice & UI/UX designing in Figma**
 
-- 📫 How to reach me **jgoboli2@gmail.com**
+- 📫 How to reach me **jogoboli@sorsu.edu.ph**
 
 - ⚡ Fun fact **I play Valorant and Basketball often**
 
