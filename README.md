@@ -25,7 +25,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6577/6577277.png" width="60px" height="60px"></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="60px" height="60px"></a>
   <a href="https://www.techtarget.com/whatis/definition/Photoshop" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="60px" height="60px"></a>
-  <a href="https://www.mediacollege.com/video/editing/tutorial/definition.html" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/4047/premium/4047865.png?token=exp=1659615948~hmac=34ff0c76db61991cb08424ed2e3f14bb" width="60px" height="60px"></a>
+  <a href="https://www.mediacollege.com/video/editing/tutorial/definition.html" target="_blank"><img src="https://www.flaticon.com/free-icon/video_1179069?term=video&page=1&position=16&page=1&position=16&related_id=1179069&origin=style" width="60px" height="60px"></a>
 </p>
 
 ## My Github Stats 📊
