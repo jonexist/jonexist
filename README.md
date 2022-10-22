@@ -1,5 +1,6 @@
-<a href="#"><img src="https://free4kwallpapers.com/uploads/originals/2020/08/15/-programming-wallpaper.png" width="100%" height="auto"></a>
-
+<p align="center">
+<a href="#"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" height="auto"></a>
+</p>
 <h1 align="center">Hi, I'm Jonathan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## About me 🙋‍♂️
@@ -8,7 +9,7 @@
 
 - 🌱 I’m currently learning Web Development
 
-- 🛠 Repairing, installing application & triubleshooting pc is one of my services
+- 🛠 Repairing, installing application & troubleshooting pc is one of my services
 
 - 👯 I’m looking to collaborate on **Web Dev practice & UI/UX designing in Figma**
 
