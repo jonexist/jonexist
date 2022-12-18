@@ -1,8 +1,6 @@
-# 👨‍💻 Jonexist
+# 🔥 Jonexist
 
-**`Kotoamatsukami (Aspiring future Frontend Developer/UI/UX designer/Gamer)`**
-
-I'm Jonathan, currently taking bachelor of science in Information System and an aspiring future frontend developer.
+**`Digital Hunter (Aspiring future Frontend Developer/UI/UX designer/Gamer)`**
 
 <p align="left">
   <a href="https://github.com/jonexist?tab=followers">
