@@ -27,5 +27,5 @@
 
 ### 📊 Stats
 
-   ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&theme=noctis_minimus)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=noctis_minimus)](https://github.com/jonexist)
+   ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&theme=nord)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=nord)](https://github.com/jonexist)
