@@ -29,10 +29,5 @@
 
 ### 📊 Stats
 
-   <a href="https://github.com/jonexist/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Jonathan Goboli's Github Stats"/>
-   </a>
-   <a href="https://github.com/jonexist/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=gruvbox&hide_border=true"/>
-   </a>
-   <br>
+   ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&theme=noctis_minimus)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=noctis_minimus)](https://github.com/jonexist)
