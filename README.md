@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
