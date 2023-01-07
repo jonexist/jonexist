@@ -13,14 +13,13 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
-<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.svg" />
-<img align="left" alt="Outsystem" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/4x6PWSmdbunQt0h6MHfKeDqSsBXuyA9rfvkAzWkC82tcwy9OqyFh--CoBw_Br2q4hNVR" />
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 <br />
 
 #
