@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2C3333?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-F5EA5A?&logo=Python)
 ![VSCode](https://img.shields.io/badge/-VSCode-1572B6?&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/-Figma-EAEAEA?&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-ffffff?&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-3C4048?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-495C83?&logo=github)
 <br />
