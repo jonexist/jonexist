@@ -13,14 +13,14 @@
 
 ### 🧰 Languages and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2C3333?&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-F5EA5A?&logo=Python)
+![VSCode](https://img.shields.io/badge/-VSCode-1572B6?&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/-Figma-EAEAEA?&logo=figma)
+![Git](https://img.shields.io/badge/-Git-3C4048?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-495C83?&logo=github)
 <br />
 
 #
