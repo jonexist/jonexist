@@ -1,4 +1,4 @@
-# 👨‍💻Jonexist
+# 🔱Jonexist
 
 **`Digital Hunter (Aspiring future Frontend Developer/UI/UX designer/Gamer)`**
 
