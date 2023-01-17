@@ -24,11 +24,13 @@
 <br />
 <br />
 
----
-
-#
-
 ### 📊 Stats
+<a href='https://github.com/jonexist/github-stats-transparent'>
+  
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=nord)](https://github.com/jonexist)
+ 
+</a>
 
-   ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&theme=nord)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=nord)](https://github.com/jonexist)
+### Visitor count
+<img src="https://profile-counter.glitch.me/jonexist/count.svg" />
