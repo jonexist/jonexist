@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/jonexist?tab=followers">
-    <img src="https://komarev.com/ghpvc/?username=jonexist&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=488207" alt="jonexist" />
+    <img src="https://komarev.com/ghpvc/?username=jonexist&label=Profile%20views&color=3699FF&style=for-the-badge&labelColor=488207" alt="jonexist" />
   </a>
   <a href="https://github.com/jonexist?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jonexist?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
