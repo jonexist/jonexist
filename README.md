@@ -4,7 +4,8 @@
 
 <p align="left">
   <a href="https://github.com/jonexist?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jonexist?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=jonexist&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=488207" alt="jonexist" />
+  </a>
   <a href="https://github.com/jonexist?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jonexist?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
@@ -29,8 +30,5 @@
   
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&theme=nord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonexist&layout=compact&theme=nord)](https://github.com/jonexist)
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonexist&" alt="jonexist" /></p>
 </a>
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/jonexist/count.svg" />
