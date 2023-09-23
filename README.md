@@ -1,6 +1,6 @@
 # 🔱Jonexist
 
-**`Digital Hunter (Aspiring Frontend Developer/Computer Technician/Gamer)`**
+**`Digital Hunter`**
 
 <p align="left">
   <a href="https://github.com/jonexist?tab=followers">
