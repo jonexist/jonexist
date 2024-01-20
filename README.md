@@ -1,6 +1,6 @@
-# 🔱Jonexist
+# 🔱Jonathan Goboli
 
-**`Digital Hunter`**
+**`Aspiring Frontend Developer`**
 
 <p align="left">
   <a href="https://github.com/jonexist?tab=followers">
