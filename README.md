@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate with **other web developers**
-- 👨‍💻 Portfolio link [click here](https://jgoboli-web-portfolio.onrender.com/)
+- 👨‍💻 Web portfolio [click here](https://jgoboli-web-portfolio.onrender.com/)
+
 ---
 
 ### 🧰 Languages and Tools
