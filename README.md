@@ -1,28 +1,9 @@
 # 🔱Jonathan Goboli
-
 **`Aspiring Frontend Developer`**
 
-<p align="left">
-  <a href="https://github.com/jonexist?tab=followers">
-    <img src="https://komarev.com/ghpvc/?username=jonexist&label=Profile%20views&color=3699FF&style=for-the-badge&labelColor=488207" alt="jonexist" />
-  </a>
-</p>
-
----
-
-### 🔗 Connect with me
-<div align="left">
-  <a href="https://www.instagram.com/jonexist/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="mailto:jogoboli@sorsu.edu.ph" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathan-goboli-178763252/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
+- 🌱 I’m currently learning **JavaScript**
+- 👯 I’m looking to collaborate with **other web developers**
+- 👨‍💻 Portfolio link [click here](https://jgoboli-web-portfolio.onrender.com/)
 ---
 
 ### 🧰 Languages and Tools
@@ -53,4 +34,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonexist&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jonexist&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonexist&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<br />
+
+### 🔗 Connect with me
+<div align="left">
+  <a href="https://www.instagram.com/jonexist/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="mailto:jogoboli@sorsu.edu.ph" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathan-goboli-178763252/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
 </div>
