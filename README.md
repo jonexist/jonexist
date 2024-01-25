@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate with **other web developers**
-- 👨‍💻 Web portfolio [click here](https://jgoboli-web-portfolio.onrender.com/)
+- 📙 “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." John 3:16
 
 ---
 
