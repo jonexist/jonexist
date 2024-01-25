@@ -1,4 +1,4 @@
-# 🔱Jonathan Goboli
+# 🔱Hi there, I'm Jonathan!
 **`Aspiring Frontend Developer`**
 
 - 🌱 I’m currently learning **JavaScript**
