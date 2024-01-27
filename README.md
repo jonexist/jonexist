@@ -32,7 +32,7 @@
 ### 📊 Github Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonexist&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jonexist&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonexist&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonexist&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&icon_color=58A6FF" alt="jonexist" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&locale=en&theme=react&count_private=true" alt="jonexist" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonexist&theme=react" alt="jonexist" /></p>
 </div>
