@@ -32,7 +32,7 @@
 ### 📊 Github Status
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonexist&show_icons=true&locale=en&layout=compact&theme=react" alt="jonexist" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonexist&show_icons=true&locale=en&layout=compact&theme=react" alt="jonexist" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonexist&show_icons=true&locale=en&theme=react&count_private=true" alt="jonexist" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonexist&theme=react" alt="jonexist" /></p>
 </div>
