@@ -1,7 +1,7 @@
 # 🔱Hi there, I'm Jonathan!
 **`Aspiring Frontend Developer`**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS** & **TypeScript**
 - 👯 I’m looking to collaborate with **other web developers**
 - 📙 John 3:16 (Read this verse my friend)
   
@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,figma,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap,figma" />
   </a>
 </p>
 
