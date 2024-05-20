@@ -1,7 +1,7 @@
 # 🔱Hi there, I'm Jonathan!
 **`Aspiring Frontend Developer`**
 
-- 🌱 I’m currently improving my skills in **frontend development** and **UI/UX design**
+- 🌱 I’m currently improving my skills in **Frontend development** and **UI/UX design**
 - 👯 I’m looking to collaborate with **other web developers**
 - 📙 John 3:16 (Read this verse my friend)
   
